@@ -12,7 +12,7 @@
 ### 2. Настройка
 ```bash
 # Клонировать репозиторий
-git clone <your-repo-url> ml-environment
+git clone https://github.com/neF1anders/ML-environment.git ml-environment
 cd ml-environment
 
 # Настроить окружение
