@@ -1,0 +1,21 @@
+# Данные и модели
+*.pth
+*.h5
+*.csv
+*.pkl
+
+# Python кэш
+__pycache__/
+*.pyc
+.python-version
+venv/
+.venv/
+
+# Jupyter автосохранения  
+.ipynb_checkpoints/
+
+# Секреты
+.env
+configs/secrets.txt
+
+docker-compose.override.ymlconfigs/secrets.txt

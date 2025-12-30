@@ -1,0 +1,8 @@
+alias gpu='nvidia-smi'
+alias jl='jupyter lab --allow-root --ip=0.0.0.0 --port=8888 --no-browser'
+
+echo "======================================"
+echo "AI Development Environment"
+echo "PyTorch $(python -c "import torch; print(torch.__version__)")"
+echo "CUDA available: $(python -c "import torch; print(torch.cuda.is_available())")"
+echo "======================================"
