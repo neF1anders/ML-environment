@@ -5,7 +5,7 @@
 ## 🚀 Быстрый старт
 
 ### 1. Предварительные требования
-- Docker и Docker Compose
+- Docker
 - NVIDIA GPU с драйверами
 - NVIDIA Container Toolkit
 
